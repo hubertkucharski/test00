@@ -5,5 +5,5 @@ public class NewClass extends Main{
     private int ilosc;  // liczba sztuk
     private String material;  //z czego zbudowane
 
-    private int liczbaPokoi;
+    private int liczbaPokoi; //ile jest pokoi w domu/mieszkaniu
 }
