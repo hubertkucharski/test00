@@ -1,6 +1,6 @@
 
 public class NewClass extends Main{
-    private String mebel;
-    private int ilosc;
-    private String material;
+    private String mebel; //nazwa przedmiotu
+    private int ilosc;  // liczba sztuk
+    private String material;  //z czego zbudowane
 }
